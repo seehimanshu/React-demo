@@ -1,0 +1,19 @@
+{
+  "name": "react-module",
+  "version": "1.0.0",
+  "description": "This is React module",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/seehimanshu/React)"
+  },
+  "keywords": [],
+  "author": "Himanshu Sengar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
